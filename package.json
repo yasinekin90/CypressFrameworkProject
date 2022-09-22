@@ -1,0 +1,25 @@
+{
+  "name": "cypressautomation2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasinekin90/CypressFrameworkProject.git"
+  },
+  "author": "yasin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasinekin90/CypressFrameworkProject/issues"
+  },
+  "homepage": "https://github.com/yasinekin90/CypressFrameworkProject#readme",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
